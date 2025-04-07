@@ -74,8 +74,9 @@ print("Mean Squared Error:",mse)
 print("\nPredictions:\n",y_pred[:5])
 ```
 ## Output:
+![image](https://github.com/user-attachments/assets/b98271c9-4eb8-479f-a739-b1d572e9e912)
+
  ## MSE & PREDICTION:
- ![image](https://github.com/user-attachments/assets/df2b844b-7341-4794-a8f9-cdb8f4ea520f)
 
  ![image](https://github.com/user-attachments/assets/3e816cda-bae9-4986-8a2e-b73298137c62)
 
